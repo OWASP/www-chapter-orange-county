@@ -41,6 +41,15 @@ and special outreach events:
   - Angela Young
   - Adam Brand
   - Pauline Ang
+  - Mehmet Yilmaz
   - Nick Santucci
   - Robert Cohen
-  - Mehmet Yilmaz
+  - Rushabh Dalwadi
+  - Kenneth Yee
+  - TJ
+  - Steven Millett
+  - Susan Huang
+  - Linus Yue
+  - Dmitry Sotnikov
+  - Lori Barfield
+
