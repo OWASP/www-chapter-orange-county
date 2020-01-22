@@ -1,6 +1,7 @@
-<!--### Chapter Information
-* Chapter Region
+### Chapter Region
+* Southern California, United States
 
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+* [Meetup](https://www.meetup.com/OWASP-OC/)
+* [LinkedIn](https://www.linkedin.com/company/owasp-orange-county/)
+* [Twitter](https://twitter.com//OWASPOC)
