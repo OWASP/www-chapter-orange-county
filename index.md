@@ -6,6 +6,9 @@ tags: chapter
 level: 0
 
 region: North America
+meetup-group: OWASP-OC
+country: USA
+postal-code: 92618
 
 ---
 
