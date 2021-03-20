@@ -23,6 +23,9 @@ The Orange County OWASP Chapter uses a community building website known as "meet
 <br style="clear: left;"/>
 
 ### Check our Upcoming Meetup Events:
+All of our meetings and meeting details can be found on Meetup page.
+Please visit <https://www.meetup.com/OWASP-OC/events/> to view our upcoming and past meetings.
+
 {% include chapter_events.html group=page.meetup-group %}
 
 ## Participation
@@ -36,12 +39,6 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 OWASP Orange County, alongside other local chapters, participate in the organization of [AppSec California](https://appseccalifornia.org){:target="_blank"} held each year in Santa Monica.
 
 [![AppSecCali](assets/images/appseccali2020.jpg)](https://appseccalifornia.org){:target="_blank"}
-
-## Chapter Meetings
-
-All of our meetings and meeting details can be found on Meetup page.
-Please visit <https://www.meetup.com/OWASP-OC/events/> to view our upcoming and past meetings.
-{% include chapter_events.html group=page.meetup-group %}
 
 ## Chapter Members Recognition
 
