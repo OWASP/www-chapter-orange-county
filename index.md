@@ -22,6 +22,9 @@ The Orange County OWASP Chapter uses a community building website known as "meet
 <img src="assets/images/logo-meetup.svg" style="width: 40%;" alt="OWASP OC on Meetup.com" />](http://www.meetup.com/OWASP-OC)
 <br style="clear: left;"/>
 
+### Check our Upcoming Meetup Events:
+{% include chapter_events.html group=page.meetup-group %}
+
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
