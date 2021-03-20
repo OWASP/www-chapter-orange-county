@@ -23,6 +23,9 @@ The Orange County OWASP Chapter uses a community building website known as "meet
 <br style="clear: left;"/>
 
 ### Check our Upcoming Meetup Events:
+All of our meetings and meeting details can be found on Meetup page.
+Please visit <https://www.meetup.com/OWASP-OC/events/> to view our upcoming and past meetings.
+
 {% include chapter_events.html group=page.meetup-group %}
 
 ## Participation
