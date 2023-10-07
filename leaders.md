@@ -4,5 +4,6 @@
 * [Jonathan Marcil](mailto:jonathan.marcil@owasp.org)
 
 ### Board Members
-To be renewed soon
+* [Adolfo Alarcon](mailto:adolfo.alarcon@owasp.org)
+* [John Vasquez](mailto:john.vasquez@owasp.org)
 
