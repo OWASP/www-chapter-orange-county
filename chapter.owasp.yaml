@@ -1,0 +1,27 @@
+leaders:
+  - name: Craig Hai
+    email: craig.hai@owasp.org
+    github: haiitscraig
+  - name: Adolfo Alarcon
+    email: adolfo.alarcon@owasp.org
+  - name: John Vasquez
+    email: john.vasquez@owasp.org
+location:
+  country: USA
+  country_code: US
+  region: California
+  city: Irvine
+  postal_code: '92618'
+  latitude: 31.8942416
+  longitude: -102.3351649
+meetup_group: OWASP-OC
+name: OWASP Orange County
+repositories:
+  - name: www-chapter-orange-county
+    url: https://github.com/OWASP/www-chapter-orange-county
+    description: OWASP Orange County Chapter Page
+tags:
+  - chapter
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-orange-county
