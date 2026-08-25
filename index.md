@@ -12,7 +12,11 @@ postal-code: 92618
 
 ---
 
-[<img src="assets/images/OWASP_OC_v4.png" style="float: left; width: 30%; margin-right: 15px; margin-bottom: 15px;" alt="OWASP OC" />](http://www.meetup.com/OWASP-OC)
+[<img src="assets/images/OWASP_OC_v4.png" style="float: left; width: 30%; margin-right: 15px; margin-bottom: 15px;" alt="OWASP OC" />](https://www.eventbrite.com/o/owasp-orange-county-120900036333)
+
+<br>
+<br>
+
 
 Welcome to the Orange County chapter homepage.
 
@@ -21,7 +25,7 @@ The OWASP Orange County Chapter brings together security professionals, develope
 
 ### Check our Upcoming Events:
 All of our meetings and meeting details can be found on Eventbrite page.
-Please visit [Eventbrite - OWASP OC]<[https://www.eventbrite.com/o/owasp-orange-county-120900036333]> to view our past meetings and RSVP for our upcoming meetings.
+Please visit [Eventbrite - OWASP OC](https://www.eventbrite.com/o/owasp-orange-county-120900036333) to view our past meetings and RSVP for our upcoming meetings.
 
 {% include chapter_events.html group=page.meetup-group %}
 
